@@ -1,6 +1,6 @@
 __precompile__()
 module Weave
-import Highlights
+import Highlights, IJulia
 using Compat
 using Requires
 
